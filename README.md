@@ -16,7 +16,8 @@ Myself
 - ⚡ Fun fact: ... -->
 
 # Follow me on
-[![logo-gfb0667dd5_1280](https://user-images.githubusercontent.com/82254014/146674085-e4d587b1-2e67-4757-b4f1-07e157678b4e.png)][1][![linked-in-g0ea6ef7cf_1280](https://user-images.githubusercontent.com/82254014/146674100-84b61225-9796-4031-829a-b0dfe814de5c.png)][2][![instagram-g7a28c9ce8_1280](https://user-images.githubusercontent.com/82254014/146674106-853c5215-292b-41ea-a531-c36f8b629f3b.png)][3][![twitter-ga0d008fe4_1280](https://user-images.githubusercontent.com/82254014/146674113-bc602a9c-a94b-4391-bbc0-90502d83971b.png)][4]
+[![logo-gfb0667dd5_1280](https://user-images.githubusercontent.com/82254014/146674749-7bc44128-67b6-4ae8-b445-95724b04ce91.png)][1][![linked-in-g0ea6ef7cf_1280](https://user-images.githubusercontent.com/82254014/146674760-367045e3-b98a-473d-a383-d583ad5c37a5.png)][2][![instagram-g7a28c9ce8_1280](https://user-images.githubusercontent.com/82254014/146674769-ca73b48d-939e-4d10-bdf3-8cfc93374f7b.png)][3][![twitter-ga0d008fe4_1280](https://user-images.githubusercontent.com/82254014/146674781-749534ef-93ec-49cb-8ac7-5a547db27f0a.png)][4]
+
 
 [1]: https://github.com/pranavrbagade
 [2]: https://www.linkedin.com/in/pranav-bagade
