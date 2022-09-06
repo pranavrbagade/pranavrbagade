@@ -9,7 +9,7 @@ Myself
 ## - 🔭 I’m currently working on Data science and ML projects
 ## - 🌱 I’m currently learning DSA, Database management, ML foundations, Web developement
 ## - 👯 I’m looking to collaborate on AI, ML and data science projects
-## - 🤔 I’m looking for help with ML techniques
+## - 🤔 Curious
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
